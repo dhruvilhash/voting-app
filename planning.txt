@@ -1,0 +1,37 @@
+voting for application
+
+what ??
+user can give vote to their fav parties
+
+models 
+routes
+
+voting functionality
+
+1. user sign in / sign up
+2. see the list of candidate
+3. vote one of the party once 
+4. live counting of vote 
+5. user data must contain their unique gov id like AAHAR
+6. user ADMIN
+7. user can change their password
+8. user can login with addhar and password
+9. admin cant vote
+
+---------------------------------------------------------------------------
+
+
+Routes
+
+user authentication
+signup, login
+
+voting 
+
+user profile updation 
+
+admin control
+
+vote counts
+
+
